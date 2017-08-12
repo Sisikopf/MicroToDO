@@ -1,0 +1,21 @@
+{
+  "name": "microtodo",
+  "version": "0.0.1",
+  "description": "to-do on microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sisikopf/MicroToDo.git"
+  },
+  "author": "Sisikopf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sisikopf/MicroToDo/issues"
+  },
+  "homepage": "https://github.com/Sisikopf/MicroToDo#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
