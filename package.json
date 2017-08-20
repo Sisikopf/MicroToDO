@@ -4,7 +4,8 @@
   "description": "to-do on microservices",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,7 @@
   },
   "homepage": "https://github.com/Sisikopf/MicroToDo#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
 }
