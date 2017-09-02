@@ -1,11 +1,5 @@
-import React, {Component} from 'react';
+import React from 'react';
 
-export default class TestPage extends Component {
-    render() {
-        return (
-            <div className='test-page'>
-                Test Page!!!
-            </div>
-        )
-    }
+export default function TestPage() {
+  return <div className="test-page"> Test Page!!</div>;
 }
